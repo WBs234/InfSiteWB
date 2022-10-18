@@ -1,6 +1,6 @@
-###📱 Comandos para executar 📱
+```📱 Comandos para executar 📱
 
-```apt upgrade
+apt upgrade
 pkg update
 pkg install pip
 pip install python-whois
@@ -9,15 +9,15 @@ git clone https://github.com/WBs234/InfSiteWB
 cd InfSiteWB
 apt install python
 apt install python2
-python3 Execute.py```
+python3 Execute.py
 
-> **✅ Requisitos ✅**
-> - - [x] **• Pip**
-> - - [x] **• Python3**
-> - - [x] **• Git**
-> - - [x] **• Python-whois**
+✅ Requisitos ✅
+• Pip
+• Python3
+• Git
+• Python-whois
 
-##❔Como usar?❓
+❔Como usar?❓
 
 • Após executar os comandos em ordem, coloque o link do site.
 • Quando aparecer os dados, você tem a opção de sair ou continuar no script usando S para sim e N para não.
@@ -28,4 +28,4 @@ python3 Execute.py```
 • Koppy404
 • Carlos
 • Hades
-• K1ng.sh
+• K1ng.sh```
