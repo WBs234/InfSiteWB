@@ -9,7 +9,32 @@ import time
 import os
 import whois
 os.system("clear")
-print(azul+"olá! seja bem vindo ao script de consultar dados de um site")
+print(roxo+'''                            ,--.
+                           {    }
+                           K,   }
+                          /  ~Y`
+                     ,   /   /
+                    {_'-K.__/
+                      `/-.__L._
+                      /  ' /`\_}
+                     /  ' /
+             ____   /  ' /
+      ,-'~~~~    ~~/  ' /_
+    ,'             ``~~~  ',
+   (                        Y
+  {                         I
+ {      -                    `,
+ |       ',                   )
+ |        |   ,..__      __. Y
+ |    .,_./  Y ' / ^Y   J   )|
+ \           |' /   |   |   ||
+  \          L_/    . _ (_,.'(
+   \,   ,      ^^""' / |      )
+     \_  \          /,L]     /
+       '-_~-,       ` `   ./`
+          `'{_            )
+              ^^\..___,.--` Wolf404 to hell''')
+print(roxo+"olá! seja bem vindo ao script de consultar dados de um site")
 def prog():
     print("\n")
     site=input("digite o site que deseja consultar a seguir: "+roxo)
