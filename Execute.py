@@ -34,6 +34,7 @@ print(roxo+'''                            ,--.
        '-_~-,       ` `   ./`
           `'{_            )
               ^^\..___,.--` Wolf404 to hell''')
+print("\n")
 print(roxo+"olá! seja bem vindo ao script de consultar dados de um site")
 def prog():
     print("\n")
