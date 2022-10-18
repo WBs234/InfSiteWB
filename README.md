@@ -1,16 +1,16 @@
 ```
 📱 Comandos para executar 📱
 
-apt upgrade
-pkg update
-pkg install pip
-pip install python-whois
-apt install git
-git clone https://github.com/WBs234/InfSiteWB
-cd InfSiteWB
-apt install python
-apt install python2
-python3 Execute.py
+**apt upgrade *
+**pkg update *
+**pkg install pip *
+**pip install python-whois *
+**apt install git *
+**git clone https://github.com/WBs234/InfSiteWB *
+**cd InfSiteWB *
+**apt install python *
+**apt install python2 *
+**python3 Execute.py *
 
 ✅ Requisitos ✅
 • Pip
