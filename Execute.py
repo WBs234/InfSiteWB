@@ -21,7 +21,7 @@ def prog():
     print(dados.text)
 prog()
 while True:
-    re= str(input(roxo+"deseja continuar?"+amarelo+"[S/N]"))
+    re= str(input(roxo+"deseja continuar?"+amarelo+"[S/N] "))
     re.strip()
     re.upper()
     if re=="S":
