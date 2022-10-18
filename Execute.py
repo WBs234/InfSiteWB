@@ -9,19 +9,19 @@ import time
 import os
 import whois
 os.system("clear")
-print(azul+"olá! seja bem vindo ao script de consultar >
+print(azul+"olá! seja bem vindo ao script de consultar dados de um site")
 def prog():
     print("\n")
-    site=input("digite o site que deseja consultar a se>
+    site=input("digite o site que deseja consultar a seguir: "+roxo)
     dados=whois.whois(site)
     print("\n")
-    print("pera la amigao, estamos consultanto.."+amare>
+    print("pera la amigao, estamos consultanto.."+amarelo)
     time.sleep(2)
     print("\n")
     print(dados.text)
 prog()
 while True:
-    re= str(input(roxo+"deseja continuar?"+amarelo+"[S/>
+    re= str(input(roxo+"deseja continuar?"+amarelo+"[S/N]))
     re.strip()
     re.upper()
     if re=="S":
